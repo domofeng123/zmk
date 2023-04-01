@@ -5,11 +5,8 @@
  */
 
 #include <device.h>
-<<<<<<< HEAD:app/src/split/bluetooth/split_listener.c
-=======
 #include <drivers/sensor.h>
 #include <power/reboot.h>
->>>>>>> stephen/split-encoder:app/src/split_listener.c
 #include <logging/log.h>
 
 #include <zmk/split/bluetooth/service.h>
